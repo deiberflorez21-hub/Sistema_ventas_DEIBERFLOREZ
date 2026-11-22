@@ -1,0 +1,10 @@
+# Archivos binarios de Java
+*.class
+
+# Entornos y SO
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+*.iml
+.vscode/
